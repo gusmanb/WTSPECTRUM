@@ -7,7 +7,7 @@ How to install:
 
 2 - Open the profiles.json file with the terminal settings (use the down arrow on the terminal, click "Settings")
 
-3 - Add this to the profiles section
+3 - Add this to the profiles section (remember to change the path to the image)
 
     {
         "guid": "{61c54abd-c2c6-5271-96e7-009a87ff42bc}",
