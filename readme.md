@@ -51,7 +51,7 @@ How to install:
         "white": "#c0c0c0",
         "brightBlack": "#000000",
         "yellow": "#c0c000"
-    },
+    }
 
 
 5 - Install the ZX Spectrum font from https://www.dafont.com/zx-spectrum.font
